@@ -1,4 +1,9 @@
-## Hello there! I'm Bruna :woman_technologist:
+### Hello there :star_struck:! I'm Bruna :woman_technologist:
+
+I'm a Full Stack Web Developer and a full time curious searcher :female_detective:
+
+Nowadays, I work as a programming Tutor at [Driven](https://www.driven.com.br/), job that gives me so much too learn and develop and so many incredible students to exchange knowledge and experiences :heart:.
+
 
 <!--
 **brunatb/brunatb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
