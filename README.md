@@ -28,12 +28,12 @@ Nowadays, I work as a programming Tutor at [Driven](https://www.driven.com.br/),
 
 <h2 align="center">My stats</h2>
 <div align="center">
-  <img width="400px" height="250px" alt="Bruna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brunatb&theme=dracula&show_icons=true&hide_border=true" />
+  <img height="160em;" alt="Bruna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brunatb&theme=dracula&show_icons=true&hide_border=true" />
    &nbsp  
    &nbsp
    &nbsp
    &nbsp
-  <img height="250px" alt="Bruna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunatb&theme=dracula" />
+  <img height="160em;" alt="Bruna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunatb&theme=dracula&layout=compact" />
 </div>
 
 <h3 align="left">Contact me</h2>
