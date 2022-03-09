@@ -1,7 +1,7 @@
 <h1 align="center">Hello there :star_struck:! I'm Bruna :woman_technologist:</h1>
 I'm a Full Stack Web Developer and a Full Time curious searcher :female_detective:
 
-Nowadays, I work as a programming Tutor at [Driven](https://www.driven.com.br/), job that gives me so much too learn and develop and so many incredible students to exchange knowledge and experiences :heart:.
+Nowadays, I work as Software Developer at [Driven](https://www.driven.com.br/), job that gives me so much too learn and develop and so many incredible students to exchange knowledge and experiences :heart:.
 
 #### A little more about me:
 
