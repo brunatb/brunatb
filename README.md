@@ -5,7 +5,6 @@ Nowadays, I work as Software Developer at [Driven](https://www.driven.com.br/), 
 
 #### A little more about me:
 
-- :books: I'm studying Control and Automation Engineering, but in process to change to Computer Science
 - :woman_mechanic: I'm a Mechatronics technician
 - :heart_eyes: I fell in love with development studying at [Driven](https://www.driven.com.br/)
 - 💬 Ask me and teach me about anything! I love to learn new things 😄
