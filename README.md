@@ -27,11 +27,11 @@ Nowadays, I work as Software Developer at [Driven](https://www.driven.com.br/), 
 
 <h2 align="center">My stats</h2>
 <div align="center">
-  <img height="160em;" alt="Bruna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brunatb&theme=dracula&show_icons=true&hide_border=true" />
+<!--   <img height="160em;" alt="Bruna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brunatb&theme=dracula&show_icons=true&hide_border=true" />
    &nbsp  
    &nbsp
    &nbsp
-   &nbsp
+   &nbsp -->
   <img height="160em;" alt="Bruna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunatb&theme=dracula&layout=compact" />
 </div>
 
